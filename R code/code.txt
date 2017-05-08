@@ -1,5 +1,9 @@
 //**  step to perform analysis  *//
 
+/*  code is available in R code folder */
+
+/* follow the steps given below */
+
 1. install these packages
 /* from R studio*/
 
