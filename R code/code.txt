@@ -13,6 +13,43 @@ install.packages(c('plyr', 'GenABEL', 'LDheatmap','doParallel', 'ggplot2', 'coin
 library(devtools)
 install_url("http://cran.r-project.org/src/contrib/Archive/postgwas/postgwas_1.11.tar.gz")
 
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/* there are four step for analysis */
+   
+   /* data preprocessing */
+2.  use the code for data preprocessing
+   1.  lab_file1
+   2.  lab_file2
+   3.  lab_file3
+   4.  lab_file4
+    
+    
+   note: after every code we create a new file which is used for further analysis so save the work as a .R file
+   
+   
+   
+   
+   /* data generation */
+ 3. use the following code for data generation process
+ 
+   1   lab_file21
+   2   lab_file22
+   
+   
+   /* analysis */
+4. use the following code for GWAS analysis process
 
-
-2. 
+  1.  lab_file31
+  2.  lab_file32
+  
+  
+5. use the following code for visualization proces
+  1.  lab_file41
+  2.  lab_file42
+  3.  lab_file43
+  
+  //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+  
+  
+  
+    
