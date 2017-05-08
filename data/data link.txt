@@ -1,1 +1,3 @@
-///////////
+/* link for data download */
+
+https://www.mtholyoke.edu/courses/afoulkes/Data/GWAStutorial/GWASTutorial_Files.zip
